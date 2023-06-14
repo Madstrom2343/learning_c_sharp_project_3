@@ -1,0 +1,15 @@
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\bin\Debug\net7.0\3rd Project (Conditions).exe
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\bin\Debug\net7.0\3rd Project (Conditions).deps.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\bin\Debug\net7.0\3rd Project (Conditions).runtimeconfig.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\bin\Debug\net7.0\3rd Project (Conditions).dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\bin\Debug\net7.0\3rd Project (Conditions).pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).csproj.AssemblyReference.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).AssemblyInfoInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).AssemblyInfo.cs
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).csproj.CoreCompileInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\refint\3rd Project (Conditions).dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\3rd Project (Conditions).genruntimeconfig.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\3rd Project (Conditions)\obj\Debug\net7.0\ref\3rd Project (Conditions).dll
